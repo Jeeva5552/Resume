@@ -1,2 +1,2 @@
 # Resume
-Motivated and adaptable graduate with excellent communication skills, a strong understanding of MS Excel, and a customer-focused mindset. Eager to work in dynamic environments like international and technical support, handling client queries, resolving issues, and contributing to customer satisfaction. 
+Analytical professional skilled in SQL, Power BI, Excel, and Python, with experience in data cleaning, visualization, and KPI reporting. Currently training in Data Analytics and Data Science at AccioJob. Passionate about creating dashboards, performing ETL, and transforming data into actionable insights.
